@@ -107,6 +107,32 @@ Net margin rises from 18.8% to 22.7%, and staffing falls from 31.1% to 28.7% of 
 | **Store Detail** (hidden; opened by drill-through from any store) | One store's passport, rankings and why it is flagged, with Profitability / Loyalty / Revenue mix tabs |
 | **How to use** (hidden; opened from the ? button in the sidebar) | A guide to the controls, plus data notes |
 
+### Screenshots
+
+**Overview**
+![Overview](screenshots/01-sunrise-coffee-overview.png)
+
+**Regions**
+![Regions](screenshots/02-sunrise-coffee-regions.png)
+
+**Stores**
+![Stores](screenshots/03-sunrise-coffee-stores.png)
+
+**Menu Mix**
+![Menu Mix](screenshots/04-sunrise-coffee-menu-mix.png)
+
+**Seasonality**
+![Seasonality](screenshots/05-sunrise-coffee-seasonality.png)
+
+**Loyalty**
+![Loyalty](screenshots/06-sunrise-coffee-loyalty.png)
+
+**2025 Plan**
+![2025 Plan](screenshots/07-sunrise-coffee-2025-plan.png)
+
+**Store Table**
+![Store Table](screenshots/08-sunrise-coffee-store-table.png)
+
 ## 6. Interactivity
 
 - Cross-filtering on every page and a Reset button.
