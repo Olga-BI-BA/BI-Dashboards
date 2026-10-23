@@ -31,5 +31,5 @@ Welcome to my interactive data visualization and business intelligence portfolio
 ---
 
 ## 📬 Contact & Connect
-* **LinkedIn:** [your-profile](https://linkedin.com)
-* **Email:** your.email@example.com
+* **LinkedIn:** [Olga Sasinovich]([https://linkedin.com](https://www.linkedin.com/in/olgasosinovich/))
+* **Email:** biproject.vs@gmal.com.com
